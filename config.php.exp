@@ -1,0 +1,6 @@
+<?php
+$config['linebot_access_token'] = '';
+$config['linebot_secret'] = '';
+$config['dialogflow_client_token'] = '';
+$config['darksky_token'] = '';
+?>
